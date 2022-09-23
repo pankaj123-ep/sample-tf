@@ -13,7 +13,7 @@ terraform {
     organization = "voda12334"
 
     workspaces {
-      name = "vodatest"
+      name = "sample-tf"
     }
   }
 }
